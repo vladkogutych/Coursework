@@ -1,0 +1,8 @@
+Potato
+Apple
+Banana
+Meat2
+12
+21
+2
+apple

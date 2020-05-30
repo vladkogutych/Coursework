@@ -1,0 +1,4 @@
+﻿  Canteen.cpp
+C:\Users\vladk\OneDrive\Робочий стіл\ПОЛІТЕХ\Програмування\курсова\Навчальний Заклад\CourseWork_School\Canteen.cpp(84,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vladk\OneDrive\Робочий стіл\ПОЛІТЕХ\Програмування\курсова\Навчальний Заклад\CourseWork_School\Canteen.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+  CourseWork_School.vcxproj -> C:\Users\vladk\OneDrive\Робочий стіл\ПОЛІТЕХ\Програмування\курсова\Навчальний Заклад\CourseWork_School\Debug\CourseWork_School.exe
